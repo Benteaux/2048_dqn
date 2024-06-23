@@ -1,0 +1,1 @@
+I only trained the model for 4550 episodes due to energy constraints. It was trained with CUDA on a NVIDIA GeForce RTX 3060
